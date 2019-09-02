@@ -8,7 +8,7 @@
   display: flex;
   justify-content: center;
   color: white;
-  background-color: cadetblue;
+  background-color: cornflowerblue;
   padding: 20px 0;
 }
 
@@ -25,4 +25,19 @@
 
 .login {
   margin-left: 20px;
+}
+
+.header-container {
+  color: cornflowerblue;
+  background-color: lightsteelblue;
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  width: 900px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
