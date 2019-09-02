@@ -8,11 +8,21 @@
   display: flex;
   justify-content: center;
   color: white;
-  background-color: lightblue;
+  background-color: cadetblue;
   padding: 20px 0;
 }
 
 .menu {
-  border: 1px solid white;
+  display: flex;
+  justify-content: space-between;
   width: 900px;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.login {
+  margin-left: 20px;
 }
